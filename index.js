@@ -24,7 +24,8 @@ console.log(hasTargetSum([22, 19, 4, 6, 30], 25))
   1. Write a function
   2. loop 1st round to find a number
   3. Loop 2nd round to find another number that can be added to the number to equal to target
-  4. Return the position of the two numbers
+  4. Return true if number is found 
+  5. else return false
 */
 
 /*
