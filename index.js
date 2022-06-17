@@ -31,7 +31,7 @@ console.log(hasTargetSum([22, 19, 4, 6, 30], 25))
 /*
   Add written explanation of your solution here
   A function to take array of numbers, a target and within the array, 
-  find the two numbers thad add up to the target. Return the indexes of the numbers.
+  find the two numbers thad add up to the target. Return true if found, otherwise return false.
 */
 
 // You can run `node index.js` to view these console logs
